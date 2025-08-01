@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\Assets\\Estados_BTN.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Estados_BTN.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\Assets\\Scripts\\SonidoBoton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SonidoBoton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\Assets\\Assets\\BotonesMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\BotonesMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\Assets\\MainMenuController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,25 +51,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Estados_BTN.cs",
-              "DocumentMoniker": "C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\Assets\\Estados_BTN.cs",
-              "RelativeDocumentMoniker": "Assets\\Estados_BTN.cs",
-              "ToolTip": "C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\Assets\\Estados_BTN.cs",
-              "RelativeToolTip": "Assets\\Estados_BTN.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "SonidoBoton.cs",
+              "DocumentMoniker": "C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\Assets\\Scripts\\SonidoBoton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SonidoBoton.cs",
+              "ToolTip": "C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\Assets\\Scripts\\SonidoBoton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SonidoBoton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T20:34:03.976Z",
+              "WhenOpened": "2025-07-23T22:25:31.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BotonesMenu.cs",
+              "DocumentMoniker": "C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\Assets\\Assets\\BotonesMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\BotonesMenu.cs",
+              "ToolTip": "C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\Assets\\Assets\\BotonesMenu.cs",
+              "RelativeToolTip": "Assets\\Assets\\BotonesMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T21:43:13.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainMenuController.cs",
               "DocumentMoniker": "C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\Assets\\MainMenuController.cs",
               "RelativeDocumentMoniker": "Assets\\MainMenuController.cs",
               "ToolTip": "C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\Assets\\MainMenuController.cs",
               "RelativeToolTip": "Assets\\MainMenuController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T23:02:40.852Z",
               "EditorCaption": ""
