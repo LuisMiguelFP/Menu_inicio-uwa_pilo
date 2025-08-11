@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\SonidoBoton.cs",
               "ToolTip": "C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\Assets\\Scripts\\SonidoBoton.cs",
               "RelativeToolTip": "Assets\\Scripts\\SonidoBoton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T22:25:31.87Z",
               "EditorCaption": ""
@@ -69,7 +69,7 @@
               "RelativeDocumentMoniker": "Assets\\Assets\\BotonesMenu.cs",
               "ToolTip": "C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\Assets\\Assets\\BotonesMenu.cs",
               "RelativeToolTip": "Assets\\Assets\\BotonesMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T21:43:13.134Z",
               "EditorCaption": ""
@@ -84,8 +84,7 @@
               "RelativeToolTip": "Assets\\MainMenuController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T23:02:40.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T23:02:40.852Z"
             }
           ]
         }

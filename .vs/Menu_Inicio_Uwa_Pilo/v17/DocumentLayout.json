@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\Assets\\Scripts\\BotonEscalaInteractiva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BotonEscalaInteractiva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\Assets\\Scripts\\SonidoBoton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SonidoBoton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,19 +55,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BotonEscalaInteractiva.cs",
+              "DocumentMoniker": "C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\Assets\\Scripts\\BotonEscalaInteractiva.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BotonEscalaInteractiva.cs",
+              "ToolTip": "C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\Assets\\Scripts\\BotonEscalaInteractiva.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BotonEscalaInteractiva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T18:20:43.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SonidoBoton.cs",
               "DocumentMoniker": "C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\Assets\\Scripts\\SonidoBoton.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SonidoBoton.cs",
               "ToolTip": "C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\Assets\\Scripts\\SonidoBoton.cs",
               "RelativeToolTip": "Assets\\Scripts\\SonidoBoton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T22:25:31.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BotonesMenu.cs",
               "DocumentMoniker": "C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\Assets\\Assets\\BotonesMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Assets\\BotonesMenu.cs",
@@ -71,12 +88,11 @@
               "RelativeToolTip": "Assets\\Assets\\BotonesMenu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T21:43:13.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T21:43:13.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainMenuController.cs",
               "DocumentMoniker": "C:\\Users\\ELIAS\\Desktop\\Menu_Inicio_Uwa_Pilo\\Assets\\MainMenuController.cs",
               "RelativeDocumentMoniker": "Assets\\MainMenuController.cs",
